@@ -2,7 +2,7 @@
 - To analyse data using R we have to download R and R studio. 
 - To download go to the link [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/) and click on <b> Download R 4.0.0 for Windows (84 megabytes, 32/64 bit)</b> present on top of the screen (img1)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/Screenshot%20(207).png" width="750" height="30" />
+  <img src="https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/Screenshot%20(207).png" width="750" height="300" />
 </p>
 - Then the file named <b> R-4.0.0-win.exe </b> will be downloaded.
 
