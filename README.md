@@ -27,11 +27,14 @@
   <img src="https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/Screenshot%20(302).png" width="500" height="350" />
 </p><br>
 
-- Continue the process till the end and clink on finish. The installation process of R is completed.
+- Continue the process till the end and click on finish. Then installation process of R is completed.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/Screenshot%20(308).png" width="500" height="350" />
 </p><br>
 
 ## Download R Studio
+- To download R studio go to the link [https://rstudio.com/products/rstudio/download/#download](https://rstudio.com/products/rstudio/download/#download) and click on download for windows.
+- An .exe file will be downloaded.
 
-## installation steps
+## Installation steps
+- 
