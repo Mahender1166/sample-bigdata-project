@@ -9,8 +9,8 @@
 ## installing R
 - By double cliking on the file a download window will appear and ask the prefered language to continue. You can click on <b>English</b> and then <b> OK </b> (img2)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/Screenshot%20(299).png" width="850" height="400" />
-</p>
+  <img src="https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/Screenshot%20(299).png" width="450" height="200" />
+</p><br>
 - Then an information window will appear. Click on <b> Next</b> (img3)
 - You can select the destination loaction where to download the file. I choose to place in default loaction i.e., ```C:\Program Files\```. Then click on <b> Next</b>.
 - Then click on <b> Next</b> again.
