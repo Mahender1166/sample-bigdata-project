@@ -36,5 +36,25 @@
 - To download R studio go to the link [https://rstudio.com/products/rstudio/download/#download](https://rstudio.com/products/rstudio/download/#download) and click on download for windows.
 - An .exe file will be downloaded.
 
-## Installation steps
-- 
+## Installation steps for R studio
+- When we double click on the downloaded file a pop up menu as shown
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/Screenshot%20(309).png" width="500" height="350" />
+</p><br>
+
+- When we click on Next, we will be asked to choose the location to install. I prefer it to be in the default location that is C:/Program Files as shown.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/Screenshot%20(310).png" width="500" height="350" />
+</p><br>
+
+- After selectin the loaction, we need to continue and click on next which will show this window.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/Screenshot%20(311).png" width="500" height="350" />
+</p><br>
+
+- After completion of the process, we can see the window as follows. Congratualitions on successful installation..!!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/Screenshot%20(311).png" width="500" height="350" />
+</p><br>
+
+- Congratualitions on successful installation..!!
